@@ -1,2 +1,19 @@
-# Matrix
-Matrix class in C++ that uses dynamic memory allocation and includes basic as well as complex matrix operations
+External Sources Referenced:
+
+-- Dietel C++ How To Program 10th Edition
+
+Instructions:
+
+-- To compile only:
+$ make p1.o
+
+-- To compile and link:
+$ make
+
+-- To compile and link and run:
+$ make run
+
+-- To clean the directory:
+$ make clean
+
+
