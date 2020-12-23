@@ -15,5 +15,3 @@ $ make run
 
 -- To clean the directory:
 $ make clean
-
-
